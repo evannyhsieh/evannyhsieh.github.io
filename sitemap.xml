@@ -9,4 +9,10 @@
       <image:loc>http://www.google.com/images/0100png0400png0100.jpg</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://www.google.com/assets/conscious.mp4</loc>
+    <lastmod>2021-01-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>

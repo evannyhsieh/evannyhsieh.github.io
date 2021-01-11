@@ -1,7 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1610369928231">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1610375244403">
+  <folder name="assets">
+    <file name="conscious.mp4" crc="3856230908" seo="true" mt="1610270818000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4180428933" ref="index"/>
+    <file name="index.css" crc="3856312451" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -17,6 +20,12 @@
     </file>
     <file name="u104-14.png" crc="75647811" ref="index"/>
     <file name="u104-14_2x.png" crc="4129004097" ref="index"/>
+    <file name="螢幕擷取畫面 00.jpg" crc="4108011657" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="螢幕擷取畫面 00_2x.jpg" crc="3834390054" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="430458056" seo="true" mt="1610369458832" redirect="true"/>
+  <file name="index.html" crc="3822027208" seo="true" mt="1610375004822" redirect="true"/>
 </manifest>
