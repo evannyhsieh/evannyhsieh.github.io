@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1610378519239">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1610378945780">
   <folder name="assets">
     <file name="conscious.mp4" crc="3856230908" seo="true" mt="1610270818000"/>
   </folder>
@@ -32,16 +32,16 @@
     <file name="0001png0072_2x.jpg" crc="3781022332" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u717-19.png" crc="42492288" ref="index"/>
-    <file name="u717-19_2x.png" crc="3896643299" ref="index"/>
+    <file name="u717-19.png" crc="262990817" ref="index"/>
+    <file name="u717-19_2x.png" crc="3910659676" ref="index"/>
     <file name="u806-15.png" crc="4018727858" ref="index"/>
     <file name="u806-15_2x.png" crc="25979185" ref="index"/>
-    <file name="未命名-4.jpg" crc="425117566" seo="true" ref="index">
+    <file name="未命名-4 (1).jpg" crc="501111587" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="未命名-4_2x.jpg" crc="97074390" seo="true" ref="index">
+    <file name="未命名-4 (1)_2x.jpg" crc="118077737" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="197038648" seo="true" mt="1610378509898" redirect="true"/>
+  <file name="index.html" crc="29092196" seo="true" mt="1610378933103" redirect="true"/>
 </manifest>
