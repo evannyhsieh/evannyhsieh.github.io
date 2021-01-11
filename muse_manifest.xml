@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1610376626445">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1610378519239">
   <folder name="assets">
     <file name="conscious.mp4" crc="3856230908" seo="true" mt="1610270818000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3973833865" ref="index"/>
+    <file name="index.css" crc="4244242239" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -20,6 +20,28 @@
     </file>
     <file name="u104-14.png" crc="75647811" ref="index"/>
     <file name="u104-14_2x.png" crc="4129004097" ref="index"/>
+    <file name="0001png0072.jpg" crc="4248027382" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poster_a3_-crop-u707.jpg" crc="375426736" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poster_a3_-crop-u707_2x.jpg" crc="300362497" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0001png0072_2x.jpg" crc="3781022332" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u717-19.png" crc="42492288" ref="index"/>
+    <file name="u717-19_2x.png" crc="3896643299" ref="index"/>
+    <file name="u806-15.png" crc="4018727858" ref="index"/>
+    <file name="u806-15_2x.png" crc="25979185" ref="index"/>
+    <file name="未命名-4.jpg" crc="425117566" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-4_2x.jpg" crc="97074390" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="43362542" seo="true" mt="1610376621167" redirect="true"/>
+  <file name="index.html" crc="197038648" seo="true" mt="1610378509898" redirect="true"/>
 </manifest>

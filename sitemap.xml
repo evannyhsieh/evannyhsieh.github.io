@@ -8,6 +8,24 @@
     <image:image>
       <image:loc>http://www.google.com/images/0100png0400png0100.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.google.com/images/0001png0072.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.google.com/images/poster_a3_-crop-u707.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.google.com/images/poster_a3_-crop-u707_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.google.com/images/0001png0072_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.google.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.google.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D-4_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.google.com/assets/conscious.mp4</loc>
