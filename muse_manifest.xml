@@ -1,24 +1,26 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1610701502917">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1610702618224">
   <folder name="assets">
     <file name="conscious.mp4" crc="3856230908" seo="true" mt="1610270818000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3779918827" ref="index"/>
+    <file name="index.css" crc="177477002" ref="index"/>
+    <file name="2.css" crc="342381551" ref="2"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4286661555" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:2"/>
+    <file name="museutils.js" crc="340535759" ref="index:2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:2"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:2"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:2"/>
+    <file name="require.js" crc="7928878" ref="index:2"/>
   </folder>
   <folder name="images">
-    <file name="0100png0400png0100.jpg" crc="3764869781" seo="true" ref="index">
+    <file name="0100png0400png0100.jpg" crc="3764869781" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="home" alt=""/>
       <caption webpage="untitled-2" alt=""/>
+      <caption webpage="home" alt=""/>
     </file>
     <file name="u1032-14.png" crc="75647811" ref="index"/>
     <file name="u1032-14_2x.png" crc="4129004097" ref="index"/>
@@ -34,8 +36,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="home" alt=""/>
     </file>
-    <file name="u1038-9.png" crc="102767594" ref="index"/>
-    <file name="u1038-9_2x.png" crc="429129420" ref="index"/>
+    <file name="u1038-8.png" crc="4196614240" ref="index"/>
+    <file name="u1038-8_2x.png" crc="4283515401" ref="index"/>
+    <file name="u1108-6.png" crc="3901054512" ref="index"/>
+    <file name="u1108-6_2x.png" crc="3968355445" ref="index"/>
+    <file name="u1114-4.png" crc="461054714" ref="2"/>
+    <file name="u1114-4_2x.png" crc="199440565" ref="2"/>
   </folder>
-  <file name="index.html" crc="57487143" seo="true" mt="1610701490122" redirect="true"/>
+  <file name="index.html" crc="4209829711" seo="true" mt="1610702583410" redirect="true"/>
+  <file name="2.html" crc="3766565880" seo="true" mt="1610702564234" redirect="true"/>
 </manifest>

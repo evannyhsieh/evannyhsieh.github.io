@@ -6,9 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.google.com/images/0100png0400png0100.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.google.com/images/0100png0400png0351.jpg</image:loc>
     </image:image>
     <image:image>
@@ -16,6 +13,15 @@
     </image:image>
     <image:image>
       <image:loc>http://www.google.com/images/poster02_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.google.com/2.html</loc>
+    <lastmod>2021-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.google.com/images/0100png0400png0100.jpg</image:loc>
     </image:image>
   </url>
   <url>
