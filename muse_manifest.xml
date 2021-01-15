@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1610702618224">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1610702850398">
   <folder name="assets">
     <file name="conscious.mp4" crc="3856230908" seo="true" mt="1610270818000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="177477002" ref="index"/>
+    <file name="index.css" crc="3923408603" ref="index"/>
     <file name="2.css" crc="342381551" ref="2"/>
   </folder>
   <folder name="scripts">
@@ -43,6 +43,6 @@
     <file name="u1114-4.png" crc="461054714" ref="2"/>
     <file name="u1114-4_2x.png" crc="199440565" ref="2"/>
   </folder>
-  <file name="index.html" crc="4209829711" seo="true" mt="1610702583410" redirect="true"/>
+  <file name="index.html" crc="313110155" seo="true" mt="1610702843169" redirect="true"/>
   <file name="2.html" crc="3766565880" seo="true" mt="1610702564234" redirect="true"/>
 </manifest>
