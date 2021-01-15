@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1610379073202">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1610701502917">
   <folder name="assets">
     <file name="conscious.mp4" crc="3856230908" seo="true" mt="1610270818000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4244242239" ref="index"/>
+    <file name="index.css" crc="3779918827" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -17,31 +17,25 @@
   <folder name="images">
     <file name="0100png0400png0100.jpg" crc="3764869781" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="u104-14.png" crc="75647811" ref="index"/>
-    <file name="u104-14_2x.png" crc="4129004097" ref="index"/>
-    <file name="0001png0072.jpg" crc="4248027382" seo="true" ref="index">
+    <file name="u1032-14.png" crc="75647811" ref="index"/>
+    <file name="u1032-14_2x.png" crc="4129004097" ref="index"/>
+    <file name="0100png0400png0351.jpg" crc="4245180908" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
     </file>
-    <file name="poster_a3_-crop-u707.jpg" crc="375426736" seo="true" ref="index">
+    <file name="poster02.png" crc="189230989" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
     </file>
-    <file name="poster_a3_-crop-u707_2x.jpg" crc="300362497" seo="true" ref="index">
+    <file name="poster02_2x.png" crc="454650861" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
     </file>
-    <file name="0001png0072_2x.jpg" crc="3781022332" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u717-19.png" crc="262990817" ref="index"/>
-    <file name="u717-19_2x.png" crc="3910659676" ref="index"/>
-    <file name="u806-15.png" crc="4018727858" ref="index"/>
-    <file name="u806-15_2x.png" crc="25979185" ref="index"/>
-    <file name="未命名-4 (1).jpg" crc="501111587" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="未命名-4 (1)_2x.jpg" crc="118077737" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="u1038-9.png" crc="102767594" ref="index"/>
+    <file name="u1038-9_2x.png" crc="429129420" ref="index"/>
   </folder>
-  <file name="index.html" crc="29092196" seo="true" mt="1610378933103" redirect="true"/>
+  <file name="index.html" crc="57487143" seo="true" mt="1610701490122" redirect="true"/>
 </manifest>
